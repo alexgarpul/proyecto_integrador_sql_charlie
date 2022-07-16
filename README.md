@@ -26,4 +26,4 @@ En el archivo nombrado 'consulta 2': Se evidencia la consulta sobre la noticia, 
 En el archivo nombrado 'consulta 3': Se evidencia el código de grupo y el módulo al que pertenece el usuario.
 En el archivo nombrado 'consulta 4': Se evidencia la ciudad a la que pertenece y la modalidad en la que está inscrito el usuario.
 En el archivo nombrado 'consulta 5': Se evidencia la ciudad, noticia, el rol, código de grupo, jornada y modalidad del usuario.
-Imagen
+
